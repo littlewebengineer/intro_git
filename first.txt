@@ -1,1 +1,3 @@
 練習中
+・git add
+・git commit
